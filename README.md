@@ -17,7 +17,7 @@ The gui should be the main interaction hub.
 but keep in mind that you need to untick the new Record option in the Gui in order to not overwrite it. 
 
 ## GUI
-![Alt Text](GUI Picture.png)
+![Alt Text](GUIPicture.png)
 
 The gui has in the first line a button, this button displays Record if you start.<br>
 If you untick the checkbox new Recording, the button displays Ask Ai.
